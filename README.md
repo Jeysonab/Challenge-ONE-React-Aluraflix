@@ -9,8 +9,8 @@ Boton nuevo video: esto lleva a un formulario para registrar un nuevo video.
 Boton nueva categoria: Esto lleva a un formulario para registrar, eliminar, o modificar las categorias existentes.
 
 ## Características
--Uso de React y librerias de React.
--Se usa NPM.
+* Uso de React y librerias de React.
+* Se usa NPM.
 
 ## Dependencias:
 * styled components
