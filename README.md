@@ -1,6 +1,6 @@
 # AluraFlix Plataforma para ver videos y categorizarlos
 
-Demo Aluraflix: [https://jeysonab.github.io/Challenge-ONE-React-Aluraflix]
+[Demo Aluraflix](https://jeysonab.github.io/Challenge-ONE-React-Aluraflix)
 
 ## Introducción:
 
