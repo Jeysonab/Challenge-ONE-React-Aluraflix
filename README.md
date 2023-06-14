@@ -47,7 +47,7 @@ Descripción de la estructura de archivos del proyecto.
 
 
 Tambien puedes acceder al siguiente enlace, asegurandote de tener json server ejecutado en el puerto 3001, y el sitio funcionará.
-https://aluraflix-omega-black.vercel.app/
+
 
 
 
