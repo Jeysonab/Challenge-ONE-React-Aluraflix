@@ -1,0 +1,171 @@
+{
+  "videos": [
+    {
+      "titulo": "Qué Significa Pensar Como Programador",
+      "urlVideo": "https://www.youtube.com/watch?v=ov7vA5HFe6w",
+      "urlImagen": "https://img.youtube.com/vi/ov7vA5HFe6w/maxresdefault.jpg",
+      "category": "Front End",
+      "descripcion": "¿Cuáles son las principales características de un programador? ¿Qué habilidades y competencias debe tener alguien que quiere seguir esa carrera? ",
+      "codigo": "#0001",
+      "id": 1
+    },
+    {
+      "titulo": "Cuándo usar let, var y const?",
+      "urlVideo": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "urlImagen": "https://img.youtube.com/vi/PztCEdIJITY/maxresdefault.jpg",
+      "category": "Front End",
+      "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "codigo": "#0002",
+      "id": 2
+    },
+    {
+      "titulo": "¿Qué es JavaScript?",
+      "urlVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "urlImagen": "https://img.youtube.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
+      "category": "Front End",
+      "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "codigo": "#0003",
+      "id": 3
+    },
+    {
+      "titulo": "Equipo Front End",
+      "urlVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg&t=3s",
+      "urlImagen": "https://img.youtube.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+      "category": "Front End",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+      "codigo": "#0004",
+      "id": 4
+    },
+    {
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "urlVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "urlImagen": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
+      "category": "Front End",
+      "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "codigo": "#0005",
+      "id": 5
+    },
+    {
+      "titulo": "Frameworks de Front End - Edición especial",
+      "urlVideo": "https://www.youtube.com/watch?v=UNeKzI2WHgQ",
+      "urlImagen": "https://img.youtube.com/vi/UNeKzI2WHgQ/maxresdefault.jpg",
+      "category": "Front End",
+      "descripcion": "¿Quieres conocer sobre los frameworks más utilizados en el mercado hoy en día? En este video nuestro instructor de Front End nos explicarás cuáles son los frameworks de Front más conocidos y las diferencias entre ellos. ¿Quieres saber más?",
+      "codigo": "#0006",
+      "id": 6
+    },
+    {
+      "titulo": "Spring Framework. ¿Qué es ?",
+      "urlVideo": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "urlImagen": "https://img.youtube.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+      "category": "Back End",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo.",
+      "codigo": "#0007",
+      "id": 7
+    },
+    {
+      "titulo": "¿Qué es SQL y NoSQL?",
+      "urlVideo": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "urlImagen": "https://img.youtube.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+      "category": "Back End",
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+      "codigo": "#0008",
+      "id": 8
+    },
+    {
+      "titulo": "Simplificando tu código en Java: Conoce los enum",
+      "urlVideo": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "urlImagen": "https://img.youtube.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+      "category": "Back End",
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código?  En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
+      "codigo": "#0009",
+      "id": 9
+    },
+    {
+      "titulo": "La magia detrás de Java",
+      "urlVideo": "https://www.youtube.com/watch?v=GrEO8nZzyZM",
+      "urlImagen": "https://img.youtube.com/vi/GrEO8nZzyZM/maxresdefault.jpg",
+      "category": "Back End",
+      "descripcion": "Sabemos que el ecosistema de Java es una sopa de letras con varias siglas, y la JVM (Java Virtual Machine) es una de ellas. En este video, nuestra instructora Ellen Pimentel explica su rol y características y es más simple que la magia, es decir, de lo que uno imagina.",
+      "codigo": "#0010",
+      "id": 10
+    },
+    {
+      "titulo": "Back End",
+      "urlVideo": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "urlImagen": "https://img.youtube.com/vi/Z024LSCMqFk/maxresdefault.jpg",
+      "category": "Back End",
+      "descripcion": "¿Quieres saber más?",
+      "codigo": "#0011",
+      "id": 11
+    },
+    {
+      "titulo": "¿Qué son las Soft Skills?",
+      "urlVideo": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "urlImagen": "https://img.youtube.com/vi/vhwspfvI52k/maxresdefault.jpg",
+      "category": "Innovación y Gestión",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "codigo": "#0012",
+      "id": 12
+    },
+    {
+      "titulo": "7 Soft Skills más deseadas por las empresas",
+      "urlVideo": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "urlImagen": "https://img.youtube.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+      "category": "Innovación y Gestión",
+      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+      "codigo": "#0013",
+      "id": 13
+    },
+    {
+      "titulo": "¿Qué son las metodologias ágiles?",
+      "urlVideo": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+      "urlImagen": "https://img.youtube.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+      "category": "Innovación y Gestión",
+      "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+      "codigo": "#0014",
+      "id": 14
+    },
+    {
+      "titulo": "¿Qué es scrum?",
+      "urlVideo": "https://www.youtube.com/watch?v=TttMvhj4uu4",
+      "urlImagen": "https://img.youtube.com/vi/TttMvhj4uu4/maxresdefault.jpg",
+      "category": "Innovación y Gestión",
+      "descripcion": "¿Conoces el método Scrum? Si no, tienes que quedarte en este video que nuestra invitada, Andyara, nos explicará que qué es este método, cuáles son sus beneficios y como implementarlo en tu empresa.",
+      "codigo": "#0015",
+      "id": 15
+    },
+    {
+      "titulo": "Ritmo de Estudios",
+      "urlVideo": "https://www.youtube.com/watch?v=3mDnrL8YVaA",
+      "urlImagen": "https://img.youtube.com/vi/3mDnrL8YVaA/maxresdefault.jpg",
+      "category": "Innovación y Gestión",
+      "descripcion": "¿Sabes cómo organizar tu rutina de estudio? En este video vamos a ver la importancia de tener un horario de estudio que se ajuste a la disponibilidad real de tiempo de cada estudiant",
+      "codigo": "#0016",
+      "id": 16
+    }
+  ],
+  "categories": [
+    {
+      "name": "Front End",
+      "descripcion": "Formación Front End de Alura Latam",
+      "color": "#6bd1ff",
+      "codigo": "#0001",
+      "id": 1
+    },
+    {
+      "name": "Back End",
+      "descripcion": "Formación Back End de Alura Latam",
+      "color": "#00c86f",
+      "codigo": "#0002",
+      "id": 2
+    },
+    {
+      "name": "Innovación y Gestión",
+      "descripcion": "Formación Innovación y Gestión de Alura Latam",
+      "color": "#fe8c2a",
+      "codigo": "#0003",
+      "id": 3
+    }
+  ]
+}
