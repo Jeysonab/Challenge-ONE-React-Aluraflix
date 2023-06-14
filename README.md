@@ -13,10 +13,10 @@ Boton nueva categoria: Esto lleva a un formulario para registrar, eliminar, o mo
 -Se usa NPM.
 
 ## Dependencias:
--styled components
--react router dom
--react slick
--json server.
+* styled components
+* react router dom
+* react slick
+* json server.
 
 ## Instalación
 
@@ -40,8 +40,8 @@ git clone https://github.com/Jeysonab/Challenge-ONE-React-Aluraflix.git
 
 ##  Descripción de la estructura de archivos del proyecto.
 
-* public: Archivos estáticos y plantilla html base
-* src: aquí están las imagenes, los componentes en la carpeta Components y archivos globales.
+* public -> Archivos estáticos y plantilla html base
+* src -> aquí están las imagenes, los componentes en la carpeta Components y archivos globales.
 * db.json -> está es la "base de datos" que se debe iniciar en el puerto 3001 que contiene los videos y las categorias.
 
 
