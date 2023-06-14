@@ -23,7 +23,7 @@ Instalación
 Debes tener NPM y Node instalados para poder usar correctamente este proyecto. 
 
 1. Clonar el respositorio
-git clone https://github.com/StivenMZ/AluraFlixChallenge4.git
+git clone https://github.com/Jeysonab/Challenge-ONE-React-Aluraflix.git
 
 2. Instalar las depencias
 -npm install styled-components
