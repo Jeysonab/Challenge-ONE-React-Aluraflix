@@ -1,5 +1,7 @@
 # AluraFlix Plataforma para ver videos y categorizarlos
 
+Demo Aluraflix: [https://jeysonab.github.io/Challenge-ONE-React-Aluraflix]
+
 ## Introducción:
 
 Este proyecto es una plataforma para ver videos y categorizarlos hecho con React.
