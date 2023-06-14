@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Challenge-ONE-React-Aluraflix/static/css/main.9f6ac0bb.css",
+    "main.js": "/Challenge-ONE-React-Aluraflix/static/js/main.5fbd9a9f.js",
+    "static/js/787.99cb529e.chunk.js": "/Challenge-ONE-React-Aluraflix/static/js/787.99cb529e.chunk.js",
+    "static/media/BannerImg.png": "/Challenge-ONE-React-Aluraflix/static/media/BannerImg.54249eb4da785d37b570.png",
+    "static/media/Logo.png": "/Challenge-ONE-React-Aluraflix/static/media/Logo.83d4d4a72a82f79ce7d1.png",
+    "static/media/slick.svg": "/Challenge-ONE-React-Aluraflix/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Challenge-ONE-React-Aluraflix/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Challenge-ONE-React-Aluraflix/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Challenge-ONE-React-Aluraflix/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Challenge-ONE-React-Aluraflix/index.html",
+    "main.9f6ac0bb.css.map": "/Challenge-ONE-React-Aluraflix/static/css/main.9f6ac0bb.css.map",
+    "main.5fbd9a9f.js.map": "/Challenge-ONE-React-Aluraflix/static/js/main.5fbd9a9f.js.map",
+    "787.99cb529e.chunk.js.map": "/Challenge-ONE-React-Aluraflix/static/js/787.99cb529e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6ac0bb.css",
+    "static/js/main.5fbd9a9f.js"
+  ]
+}
